@@ -2,7 +2,7 @@
 <h3>
 All major projects in the course "Computer Vision" - which was on the 2nd year in my CS degree.
 
-Explanation of each project:
+showcase followed by explanation of each project:
 </h3>
 
 # Augmented reality
@@ -20,7 +20,8 @@ Explanation of each project:
   <br><img src="res/outputVid.gif" width="300" height="500"/><br>
  you can try it yourself! switch the file in path "Augmented reality/newImage.jpg" with a new image and run "Augmented reality/perspective_warping.py".
  
- <h3>Lane Detection<h3/>
+ # Lane Detection
+ <h3>
   in this project we'll detect lanes and lane changes in a given video.
   for example with this video:
   <br>

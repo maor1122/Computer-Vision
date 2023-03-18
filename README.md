@@ -1,9 +1,12 @@
 # Computer-Vision
+<h3>
 All major projects in the course "Computer Vision" - which was on the 2nd year in my CS degree.
 
 Explanation of each project:
+</h3>
 
-<h3>Augmented reality<h3/>
+# Augmented reality
+<h3>
   In this project, we want to switch an item in a given video
   first let's see the inputted video:
   <br>
@@ -27,7 +30,8 @@ Explanation of each project:
   <br>
   <br><img src="res/roadtrip.gif" width="300" height="500"/><br>
  you can try it yourself! switch the file in path "Lane detection/roadtrip.mp4" with a new video and run "Lane detection/projectLanes.py".
- 
- <h2>How does it work<h2/>
- Augmented reality:
+ </h3>
+  
+ # How does it work
+ <h3>Augmented reality:</h3>
  

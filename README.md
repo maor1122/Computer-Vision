@@ -24,11 +24,11 @@ Explanation of each project:
   in this project we'll detect lanes and lane changes in a given video.
   for example with this video:
   <br>
-  <br><img src="res/roadtrip.gif" width="600" height="500"/><br>
+  <br><img src="res/roadtrip.gif" width="500" height="300"/><br>
   
   after running the program we'll have this video:
   <br>
-  <br><img src="res/roadtripOutput.gif" width="600" height="500"/><br>
+  <br><img src="res/roadtripOutput.gif" width="600" height="300"/><br>
  you can try it yourself! switch the file in path "Lane detection/roadtrip.mp4" with a new video and run "Lane detection/projectLanes.py".
  </h3>
   

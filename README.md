@@ -2,7 +2,7 @@
 <h3>
 All major projects in the course "Computer Vision" - which was on the 2nd year in my CS degree.
 
-showcase followed by explanation of each project:
+showcase of each project:
 </h3>
 
 # Augmented reality
@@ -32,7 +32,4 @@ showcase followed by explanation of each project:
   <br><img src="res/roadtripOutput.gif" width="600" height="300"/><br>
  you can try it yourself! switch the file in path "Lane detection/roadtrip.mp4" with a new video and run "Lane detection/projectLanes.py".
  </h3>
-  
- # How does it work
- <h3>Augmented reality:</h3>
  

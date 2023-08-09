@@ -15,7 +15,7 @@ showcase of each project:
   <br>
   <br><img src="Augmented reality/newImage.jpg" width="200" height="200"/><br>
   
-  The is the result:
+  The result:
   <br>
   <br><img src="res/outputVid.gif" width="300" height="500"/><br>
  you can try it yourself! switch the file in path "Augmented reality/newImage.jpg" with a new image and run "Augmented reality/perspective_warping.py".

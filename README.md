@@ -1,7 +1,7 @@
 # Computer-Vision
 <h3>
 Some of the projects in the course "Computer Vision" - which was on the 2nd year in my CS degree.
-Plus one project made after the course - mask detection.
+Plus one project made after, "Mask Detection".
 
 showcase of each project:
 </h3>

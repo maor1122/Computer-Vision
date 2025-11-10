@@ -34,7 +34,7 @@ showcase of each project:
  you can try it yourself! switch the file in path "Lane detection/roadtrip.mp4" with a new video and run "Lane detection/projectLanes.py".
  </h3>
 
- # mask detection
+ # Mask Detection
 
  In this project I showcased how I trained a model with very limited data, <b>only 100 images</b>
  I used YOLO v8 model which already trained on the COCO dataset, and since the data is a little similar - training in on mask detection should be possible even with that amount of data.
